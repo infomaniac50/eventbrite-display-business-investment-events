@@ -1,4 +1,4 @@
-=== Eventbrite API ===
+=== Eventbrite API - Business & Professional/Investment Only ===
 Contributors: kwight,infomaniac50
 Tags: eventbrite, events, api, WordPress.com
 Requires at least: 3.8
